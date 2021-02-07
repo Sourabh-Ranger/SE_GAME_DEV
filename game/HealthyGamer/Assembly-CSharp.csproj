@@ -43,6 +43,8 @@
      <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\BasicBehaviour.cs" />
      <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\FlyBehaviour.cs" />
      <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\MoveBehaviour.cs" />
+     <Compile Include="Assets\ARCADE - FREE Racing Car\CameraFollow.cs" />
+     <Compile Include="Assets\ARCADE - FREE Racing Car\script\CarController.cs" />
      <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs" />
      <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs" />
      <Compile Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\BloomAndFlares.cs" />
